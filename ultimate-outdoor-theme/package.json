@@ -1,0 +1,21 @@
+{
+  "name": "ultimate-outdoor-theme",
+  "displayName": "Ultimate outdoor theme",
+  "description": "A theme for coding outdoors on bright days",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.78.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Ultimate outdoor theme",
+        "uiTheme": "hc-light",
+        "path": "./themes/Ultimate outdoor theme-color-theme.json"
+      }
+    ]
+  }
+}
